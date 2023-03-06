@@ -1,0 +1,9 @@
+pandas==1.4.4
+numpy==1.21.5
+torch==1.13.1+cpu
+torchvision==0.14.1+cpu
+Pillow==9.2.0
+scikit-learn==1.2.1
+scikit-image==0.20.0
+tqdm==4.65.0
+
